@@ -1,0 +1,25 @@
+.elImperio {
+    background-color:red;
+}
+
+.losRebeldes {
+    background-color: blue;
+}
+
+.soldado {
+    background-color: red;
+    border:3px solid orange ;
+    letter-spacing: 5px;
+}
+
+.apoyo2 {
+    text-align: center;
+}
+
+#Luke {
+    font-style: italic;
+}
+
+#DV {
+    font-size: larger;
+}
